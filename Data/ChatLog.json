@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "ehat is meaning of shivakar"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, the search results for 'what is the meaning of Shivakar' are empty, so I couldn't find any information on this topic. Can you please provide more context or details about Shivakar, so I can try to help you better?"
+    },
+    {
+        "role": "user",
+        "content": "who is ireland pm"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, the search results for 'who is Ireland PM' are empty. However, I can suggest that you check the latest news or official government websites for the most up-to-date information on the current Prime Minister of Ireland. As my knowledge cutoff is the current moment, I can try to provide more general information, but I would recommend verifying the information through a reliable source for the most accurate answer. Would you like me to try and find more information on this topic?"
+    },
+    {
+        "role": "user",
+        "content": "stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, the search results for 'stock price of Tata' are empty. I couldn't find any information on the current stock price of Tata. For the most up-to-date and accurate information, I would recommend checking a reliable financial website or platform, such as a stock exchange website or a financial news website, for the current stock price of Tata."
+    }
+]
